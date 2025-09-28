@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.28)
 
-project(session4_src)
+project(session7_src)
 message(STATUS "Setting project " ${PROJECT_NAME})
 
 #set(CMAKE_BUILD_TYPE Debug)
